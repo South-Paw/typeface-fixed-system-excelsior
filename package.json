@@ -1,0 +1,31 @@
+{
+  "name": "@south-paw/typeface-fixed-system-excelsior",
+  "version": "1.0.0",
+  "description": "Fixed System Excelsior typeface",
+  "keywords": [
+    "typeface",
+    "font",
+    "font family",
+    "typography",
+    "fixed system excelsior"
+  ],
+  "homepage": "https://github.com/South-Paw/typeface-fixed-system-excelsior",
+  "bugs": "https://github.com/South-Paw/typeface-fixed-system-excelsior/issues",
+  "license": "MIT",
+  "author": {
+    "name": "Alex Gabites",
+    "email": "hello@southpaw.co.nz",
+    "url": "http://southpaw.co.nz/"
+  },
+  "files": [
+    "files/*"
+  ],
+  "main": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/South-Paw/typeface-fixed-system-excelsior.git"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
